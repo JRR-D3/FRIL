@@ -53,4 +53,5 @@ Priekš darbības ir nepieciešamas sekojošās detaļas:
 * 1 bita displejs (binārs signāls)
   
 ## Atsauces
-* Pielietotā biblioteka - MFRC522
+* Pielietotā biblioteka - MFRC522 ( https://github.com/mdxs/MFRC522 )
+* 
