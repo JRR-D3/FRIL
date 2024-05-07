@@ -21,4 +21,4 @@ Priekš darbības ir nepieciešamas sekojošās detaļas:
 * I2C oled displejs
 * MFRC522 RFID lasītājs
 
-![screenshot](https://imgur.com/qcNgqEf)
+![screenshot](https://cdn.discordapp.com/attachments/835944990122573836/1233465100292198501/image.png?ex=663b0924&is=6639b7a4&hm=ee73f2001a1c7d2ce5663615d5ece159c108fadb1afe91fe27709f4ec3912d2a&)
