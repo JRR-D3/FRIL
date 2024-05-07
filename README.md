@@ -54,4 +54,3 @@ Priekš darbības ir nepieciešamas sekojošās detaļas:
   
 ## Atsauces
 * Pielietotā biblioteka - MFRC522 ( https://github.com/mdxs/MFRC522 )
-* 
