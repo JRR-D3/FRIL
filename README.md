@@ -52,6 +52,12 @@ Priekš darbības ir nepieciešamas šādas detaļas:
 * Nepieciešamība manuāli mainīt kodu priekš saviem attēliem vai kartes ID.
 * Ierobežota krātuve, kas var uzturēt dažus mazas izsķirtspējas attēlus.
 * 1 bita displejs (binārs signāls).
+
+## Nākotnes uzlabojumi
+* Implementēt akumulatorus.
+* Piesaistīt lielākas izsķirt spējas ekrānu.
+* Pievienot micro sd breakout board, kas tiks izmantots krātuvei.
+* Pievienot On/Off pogu enerģijas ietaupīšanai.
   
 ## Atsauces
 * Pielietotā biblioteka - MFRC522 ( https://github.com/mdxs/MFRC522 )
