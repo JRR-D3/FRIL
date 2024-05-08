@@ -64,5 +64,5 @@ Priekš darbības ir nepieciešamas šādas detaļas:
 * Thonny mājaslapa - https://thonny.org/
 
 ## Risinājuma autori
-Jānis Reinis Reinsons
-Jorens Jānis Trēgers
+* Jānis Reinis Reinsons
+* Jorens Jānis Trēgers
