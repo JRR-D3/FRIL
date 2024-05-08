@@ -5,11 +5,11 @@ Kods un citas daļas priekš FRIL
 
 <p align="center">
   <a href="#kas-tas-ir">Key Kas tas ir?</a> •
-  <a href="#Pielietotās-tehnoloģijas">Pielietotās tehnoloģijas</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#pielietotās-tehnoloģijas">Pielietotās tehnoloģijas</a> •
+  <a href="#lietošanas-inkstrukcijas">Lietošanas instrukcijas</a> •
+  <a href="#programmas-funkcionalitāte">Programmas funkcionalitāte</a> •
+  <a href="#risinājuma-ierobežojumi">Risinājuma ierobežojumi</a> •
+  <a href="#atsauces">Atsauces</a>
 </p>
 
 ## Kas tas ir
@@ -21,35 +21,36 @@ Priekš darbības ir nepieciešamas sekojošās detaļas:
 * I2C oled displejs
 * MFRC522 RFID lasītājs
 
-![screenshot](https://cdn.discordapp.com/attachments/835944990122573836/1233465100292198501/image.png?ex=663b0924&is=6639b7a4&hm=ee73f2001a1c7d2ce5663615d5ece159c108fadb1afe91fe27709f4ec3912d2a&)
+![screenshot](https://cdn.discordapp.com/attachments/835944990122573836/1233465100292198501/image.png?ex=663c5aa4&is=663b0924&hm=02a7c345a92161eaac2df1abc1a6c77ad48d819323205c47a0c3d37907e48729&)
+
 (Attēls 1)
 
-## Lietošanas inkstruktāža
+## Lietošanas inkstrukcijas
 
 ### Koda instalēšana un palaišana
 
-*Lejupieldādēt kodu.
-*Lavienot raspberry pi pico ar datoru un ievietoto kodu uz tā. 
-*Tad pēc koda ievietošanas pēc dotajiem piniem kodā ir jāsaliek shēma ko var redzēt attēlā 1.
-*Kodu ir vēlams palaist caur thonny programmu.
+* Lejupieldādēt kodu.
+* Savienot Raspberry pi pico pie datora un augšipielādēt failus 
+* Pirms koda palaišanas, vajag saslēgt ierīces pēc dotās shēmas (skat. att.1)
+* Kodu ir vēlams palaist caur Thonny programmu.
 
 ### Savas kertes iestatīšana
 
 * Programma konsolē dod ziņu kāda karte tika noskenēta (arī gadījumos, kad karte nav atpazīta)
 * Pieliekot programmai nezināmu karti, konsolē rodas tas ID, ko var nokopēt un pielietot kodā, kur var tai piešķirt savu attēlu/animāciju
 
-### Programmas funkcionalitāte
+## Programmas funkcionalitāte
 
-*Spēj lasīt NFC ID  un uzrādīt to konmsolē.
-*Oled ekrānā uzrāda atticīgo attēlo atkarībā no piesaistītās kartes NFC ID.
-*Spēj uzrādīt animācijas kamēr tiek uzturēts attiecīgais NFC signāls.
+* Spēj lasīt NFC ID  un uzrādīt to konmsolē.
+* Oled ekrānā uzrāda atticīgo attēlu atkarībā no piesaistītās kartes NFC.
+* Spēj uzrādīt animācijas kamēr tiek uzturēts attiecīgais NFC signāls.
 
 ## Risinājuma ierobežojumi
 
 * Koda palaišanai ir nepieciešams dators
 * Risinājumā nav implementāts akumulators
 * Nepieciešamība manuāli mainīt kodu priekš saviem attēliem vai kartes ID
-* Ierobežota krātuve kas var uzturēt dažus mazas izsķirt spējas attēlus.
+* Ierobežota krātuve, kas var uzturēt dažus mazas izsķirtspējas attēlus.
 * 1 bita displejs (binārs signāls)
   
 ## Atsauces
