@@ -1,6 +1,3 @@
-# Fast Response Image Loader (FRIL)
-Kods un citas daļas priekš FRIL
-
 <h4 align="center">FRIL - metode digitālo mākslas darbu attēlošanai.</h4>
 
 <p align="center">
