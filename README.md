@@ -23,7 +23,7 @@ Priekš darbības ir nepieciešamas šādas detaļas:
 
 ![screenshot](https://cdn.discordapp.com/attachments/835944990122573836/1233465100292198501/image.png?ex=663c5aa4&is=663b0924&hm=02a7c345a92161eaac2df1abc1a6c77ad48d819323205c47a0c3d37907e48729&)
 
-(Attēls 1. Shema)
+(Attēls 1. Shēma)
 
 ## Lietošanas inkstrukcija
 
@@ -55,7 +55,7 @@ Priekš darbības ir nepieciešamas šādas detaļas:
 
 ## Nākotnes uzlabojumi
 * Implementēt akumulatorus.
-* Piesaistīt lielākas izsķirt spējas ekrānu.
+* Piesaistīt lielākas izsķirtpējas ekrānu.
 * Pievienot micro sd breakout board, kas tiks izmantots krātuvei.
 * Pievienot On/Off pogu enerģijas ietaupīšanai.
   
