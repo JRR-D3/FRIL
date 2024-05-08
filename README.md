@@ -4,7 +4,7 @@ Kods un citas daļas priekš FRIL
 <h4 align="center">FRIL - metode digitālo mākslas darbu attēlošanai.</h4>
 
 <p align="center">
-  <a href="#kas-tas-ir">Key Kas tas ir?</a> •
+  <a href="#kas-tas-ir">Kas tas ir?</a> •
   <a href="#pielietotās-tehnoloģijas">Pielietotās tehnoloģijas</a> •
   <a href="#lietošanas-inkstrukcijas">Lietošanas instrukcijas</a> •
   <a href="#programmas-funkcionalitāte">Programmas funkcionalitāte</a> •
