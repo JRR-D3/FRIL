@@ -62,3 +62,7 @@ Priekš darbības ir nepieciešamas šādas detaļas:
 ## Atsauces
 * Pielietotā biblioteka - MFRC522 ( https://github.com/mdxs/MFRC522 )
 * Thonny mājaslapa - https://thonny.org/
+
+## Risinājuma autori
+Jānis Reinis Reinsons
+Jorens Jānis Trēgers
