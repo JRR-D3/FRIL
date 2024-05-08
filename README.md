@@ -5,8 +5,8 @@ Kods un citas daļas priekš FRIL
 
 <p align="center">
   <a href="#kas-tas-ir">Kas tas ir?</a> •
-  <a href="#pielietotās-tehnoloģijas">Pielietotās tehnoloģijas</a> •
-  <a href="#lietošanas-inkstrukcijas">Lietošanas instrukcijas</a> •
+  <a href="#pielietotās-tehnoloģijas">Pielietotā tehnoloģija</a> •
+  <a href="#lietošanas-inkstrukcijas">Lietošanas instrukcija</a> •
   <a href="#programmas-funkcionalitāte">Programmas funkcionalitāte</a> •
   <a href="#risinājuma-ierobežojumi">Risinājuma ierobežojumi</a> •
   <a href="#atsauces">Atsauces</a>
@@ -25,7 +25,7 @@ Priekš darbības ir nepieciešamas šādas detaļas:
 
 (Attēls 1. Shēma)
 
-## Lietošanas inkstrukcija
+## Lietošanas instrukcija
 
 ### Koda instalēšana un palaišana
 
