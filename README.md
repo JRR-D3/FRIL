@@ -13,7 +13,7 @@ Kods un citas daļas priekš FRIL
 </p>
 
 ## Kas tas ir?
-FRIL ir ātrs attēlu lādētājs, kas izmanto 128X64 bitu OLED ekrānu, lai attēlotu pbm formāta attēlus. Signāls tiek padots no Radiofrekvences Identifikatora (RFID) sensora, kad tam tuvumā tiek pielikta kartiņa, kam ir piesaistīts Near Field Communication (NFC) dati. Katrs attēls tiek saglabātas uz paša raspberry pi pico.
+FRIL ir ātrs attēlu lādētājs, kas izmanto 128X64 bitu OLED ekrānu, lai attēlotu pbm (binārs kods attēlam) formāta attēlus. Signāls tiek padots no Radiofrekvences Identifikatora (RFID) sensora, kad tam tuvumā tiek pielikta kartiņa, kam ir piesaistīts Near Field Communication (NFC) dati. Katrs attēls tiek saglabātas uz paša raspberry pi pico.
 
 ## Pielietotās tehnoloģijas
 Priekš darbības ir nepieciešamas šādas detaļas:
