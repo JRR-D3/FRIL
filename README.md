@@ -13,7 +13,7 @@ Kods un citas daļas priekš FRIL (Fast-Responce Image Loader)
 </p>
 
 ## Kas tas ir
-FRIL ir ātrs attēlu lādētājs, kas izmanto 128X64 bitu oled ekrānu lai attēlotu pbm formāta attēlus. Signāls tiek padots no RFID sensora kad tam tuvumā tiek pielikta kartiņa kam ir piesaistīts NFC dati. Katrs attēls tiek saglabātas uz paša raspberry pi pico.
+FRIL ir ātrs attēlu lādētājs, kas izmanto 128X64 bitu oled ekrānu lai attēlotu pbm formāta attēlus. Signāls tiek padots no Rādiofrekvences Identifikātora (RFID) sensora kad tam tuvumā tiek pielikta kartiņa kam ir piesaistīts Near Field Communication (NFC) dati. Katrs attēls tiek saglabātas uz paša raspberry pi pico.
 
 ## Pielietotās tehnoloģijas
 Priekš darbības ir nepieciešamas sekojošās detaļas:
@@ -54,3 +54,4 @@ Priekš darbības ir nepieciešamas sekojošās detaļas:
   
 ## Atsauces
 * Pielietotā biblioteka - MFRC522 ( https://github.com/mdxs/MFRC522 )
+* Thonny mājaslapa - https://thonny.org/
